@@ -5,10 +5,11 @@
 - Organizer - Anmol Jagetia - @AnmolJagetia - anmoljagetia@gmail.com
 
 ### OSS Team
-- Speciality - Name - Github Username - email id
+-Web Development and Machine Learning - Saptak Sengupta - @SaptakS - saptak013@gmail.com
+Format : - <Speciality> - <Name> - <Github Username> - <email id>
 
 ### Events Organization Team
-- Speciality - Name - Github Username - email id
+Format : - <Speciality> - <Name> - <Github Username> - <email id>
 
 ### Social Media Team
-- Speciality - Name- Github Username - email id
+Format : - <Speciality> - <Name> - <Github Username> - <email id>
