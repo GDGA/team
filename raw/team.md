@@ -10,6 +10,7 @@
 - Web Apps, Desktop Apps and Computer Vision - Anwesh Nayak - @anweshknayak - anweshknayak@gmail.com
 - Desktop Apps - Sarthak Panda - @sarthak96 - sarthakm27@gmail.com
 - Web Development - Shadab Hussain - @shadab-entrepreneur - shadab.entrepreneur@gmail.com
+- Web Development - Shubham Bhendarkar - @codebhendi - bhendarkar.shubham@gmail.com
 - *Speciality - Name - Github Username - email id*
 
 ### Events Organization Team
