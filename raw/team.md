@@ -12,6 +12,7 @@
 - Web Development - Shadab Hussain - @shadab-entrepreneur - shadab.entrepreneur@gmail.com
 - Web Development - Shubham Bhendarkar - @codebhendi - bhendarkar.shubham@gmail.com
 - Machine Learning - Anshul Anand - @anshul92101 - anshul92101@gmail.com
+- Android App Development - Anurag Rai - @rai16 - anurag16j@gmail.com
 - *Speciality - Name - Github Username - email id*
 
 ### Events Organization Team
@@ -19,6 +20,7 @@
 - Event Planning - Anwesh Nayak - @anweshknayak - anweshknayak@gmail.com
 - Event Organizing and Planning - Shadab Hussain - @shadab-entrepreneur - shadab.entrepreneur@gmail.com
 - Public Speaking and Event Organizing - Anshul Anand - @anshul92101 - anshul92101@gmail.com
+- Event Organizing and Public Speaking - Anurag Rai - @rai16 - anurag16j@gmail.com
 - *Speciality - Name - Github Username - email id*
 
 ### Social Media Team
