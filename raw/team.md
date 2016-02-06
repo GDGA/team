@@ -10,6 +10,7 @@
 | Speciality | Name | Github Username | Email Id |
 |:--------:|:----:|:---------------:|:---------:|
 | Web Development and Machine Learning | Saptak Sengupta | @SaptakS | saptak013@gmail.com |
+| Full-stack Development | Anurag Dorado | @aedorado | annurag94@gmail.com |
 | Android App Development | Akshat Aggarwal | @akshat7 | akshat16.agr@gmail.com |
 | Web Apps, Desktop Apps and Computer Vision | Anwesh Nayak | @anweshknayak | anweshknayak@gmail.com |
 | Desktop Apps | Sarthak Panda | @sarthak96 | sarthakm27@gmail.com |
